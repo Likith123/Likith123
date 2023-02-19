@@ -1,4 +1,19 @@
 ### Hi there 👋
+```
+console.log('My name is Likith Naga Sai');
+```
+- Work:
+  - I'm currently working at EdgeVerve Systems Limited(2021 - Present)
+- Self Learning:
+  - I'm currently learning *MERN Stack(JS)*
+  - Also learning JS for DSA problem solving
+  - Interested in *Full-Stack Development*
+  - Knowledge in JS, C++, Python, Front-end
+- How to reach me:
+  - *[likithadusumalli@gmail.com](mailto:likithadusumalli@gmail.com)*
+  - *[LinkedIn](https://www.linkedin.com/in/likith-naga-sai-adusumalli)*
+  - *[Twitter](https://twitter.com/LikithDeveloper)*
+  - *[Instagram](https://www.instagram.com/likkybhai/)* 
 
 <!--
 **Likith123/Likith123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
