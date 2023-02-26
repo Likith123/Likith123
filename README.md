@@ -9,7 +9,7 @@ console.log('My name is Likith Naga Sai');
   - Also learning JS for DSA problem solving
   - Interested in *Full-Stack Development*
   - Knowledge in JS, C++, Python, Front-end
-- Coding Platforms:
+- Coding Profile:
   - *[LeetCode](https://leetcode.com/Likith123/)*
 - How to reach me:
   - *[likithadusumalli@gmail.com](mailto:likithadusumalli@gmail.com)*
