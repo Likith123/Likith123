@@ -2,13 +2,15 @@
 ```
 console.log('My name is Likith Naga Sai');
 ```
-- Work:
+- Experience:
   - I'm currently working at EdgeVerve Systems Limited(2021 - Present)
 - Self Learning:
   - I'm currently learning *MERN Stack(JS)*
   - Also learning JS for DSA problem solving
   - Interested in *Full-Stack Development*
   - Knowledge in JS, C++, Python, Front-end
+- Coding Platforms:
+  - *[LeetCode](https://leetcode.com/Likith123/)*
 - How to reach me:
   - *[likithadusumalli@gmail.com](mailto:likithadusumalli@gmail.com)*
   - *[LinkedIn](https://www.linkedin.com/in/likith-naga-sai-adusumalli)*
